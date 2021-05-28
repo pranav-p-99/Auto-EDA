@@ -1,4 +1,4 @@
-# Auto Exploratory Data Analysis
+# Auto EDA
 
 Web application built and deployes using Python and Streamlit for performing Exploratory Data Analysis.
 
