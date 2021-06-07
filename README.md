@@ -1,6 +1,6 @@
 # Auto EDA
 
-Web application built and deployes using Python and Streamlit for performing Exploratory Data Analysis.
+Web application built and deployed using Python and Streamlit for performing Exploratory Data Analysis.
 
 ## Demo Output
 
